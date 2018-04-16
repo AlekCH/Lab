@@ -1,7 +1,8 @@
 print("Hello World")
 
 def dodaj():
-	pass
+	a = int(input())
+	b = int(input())
+	print (a+b)
 	
-	
-	dodaj(3,4)
+dodaj()
